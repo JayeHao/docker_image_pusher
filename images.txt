@@ -1,2 +1,2 @@
-# zerotier-planet局域网
+# zerotier-planet局域网.
 xubiaolin/zerotier-planet:latest
