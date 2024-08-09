@@ -2,3 +2,8 @@
 xubiaolin/zerotier-planet:latest
 # nginx
 nginx:1.25.3
+# 米西镜像
+mysql:8.0.34-debian
+redis:7.2
+quay.io/minio/minio
+instrumentisto/coturn
