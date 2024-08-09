@@ -8,3 +8,4 @@ redis:7.2
 quay.io/minio/minio
 instrumentisto/coturn
 node:20.13.0
+node:16.13.0
