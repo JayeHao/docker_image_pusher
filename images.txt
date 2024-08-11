@@ -8,3 +8,4 @@
 --platform=linux/amd64 quay.io/minio/minio
 --platform=linux/amd64 instrumentisto/coturn
 --platform=linux/amd64 node:20.14
+--platform=linux/amd64 20.13.1-alpine
