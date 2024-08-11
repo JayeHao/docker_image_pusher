@@ -1,10 +1,10 @@
 # zerotier-planet局域网
-xubiaolin/zerotier-planet:latest
+--platform=linux/amd64 xubiaolin/zerotier-planet:latest
 # nginx
-nginx:1.25.3
+--platform=linux/amd64 nginx:1.25.3
 # 米西镜像
-mysql:8.0.34-debian
-redis:7.2
-quay.io/minio/minio
-instrumentisto/coturn
-node:20.14
+--platform=linux/amd64 mysql:8.0.34-debian
+--platform=linux/amd64 redis:7.2
+--platform=linux/amd64 quay.io/minio/minio
+--platform=linux/amd64 instrumentisto/coturn
+--platform=linux/amd64 node:20.14
