@@ -7,4 +7,4 @@ mysql:8.0.34-debian
 redis:7.2
 quay.io/minio/minio
 instrumentisto/coturn
-node:20.13.1
+node:20.14
