@@ -11,5 +11,8 @@
 #--platform=linux/amd64 node:20.13.1-alpine
 # 翼龙面板
 #--platform=linux/amd64 pterodactylchina/panel:v1.11.7.1
---platform=linux/amd64 redis:alpine3.20
---platform=linux/amd64 mariadb:10.5
+#--platform=linux/amd64 redis:alpine3.20
+#--platform=linux/amd64 mariadb:10.5
+# VanBlog教程
+--platform=linux/amd64 mereith/van-blog:v0.54.0
+--platform=linux/amd64 mongo:4.4.16
