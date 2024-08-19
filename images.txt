@@ -17,5 +17,11 @@
 #--platform=linux/amd64 mereith/van-blog:v0.54.0
 #--platform=linux/amd64 mongo:4.4.16
 # 翼龙容器
-ghcr.io/parkervcp/games:source
-ghcr.io/parkervcp/installers:debian
+#ghcr.io/parkervcp/games:source
+#ghcr.io/parkervcp/installers:debian
+ghcr.io/parkervcp/yolks:debian
+ghcr.io/parkervcp/yolks:dotnet_6
+ghcr.io/parkervcp/steamcmd:debian
+ghcr.io/pterodactyl/games:rust
+ghcr.io/parkervcp/yolks:wine_latest
+ghcr.io/parkervcp/steamcmd:ubuntu
