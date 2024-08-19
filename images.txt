@@ -18,3 +18,4 @@
 #--platform=linux/amd64 mongo:4.4.16
 # 翼龙容器
 ghcr.io/parkervcp/games:source
+ghcr.io/parkervcp/installers:debian
