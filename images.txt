@@ -14,5 +14,6 @@
 #--platform=linux/amd64 redis:alpine3.20
 #--platform=linux/amd64 mariadb:10.5
 # VanBlog教程
---platform=linux/amd64 mereith/van-blog:v0.54.0
---platform=linux/amd64 mongo:4.4.16
+#--platform=linux/amd64 mereith/van-blog:v0.54.0
+#--platform=linux/amd64 mongo:4.4.16
+--platform=linux/amd6 ghcr.io/parkervcp/games:source
