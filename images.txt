@@ -36,5 +36,6 @@
 #ghcr.io/parkervcp/yolks:java_17
 #ghcr.io/parkervcp/yolks:java_21
 #ghcr.io/parkervcp/yolks:java_8
+ghcr.io/parkervcp/yolks:wine_latest
 # 人脸对比服务
-divenswu/face-search:2.1.0
+# divenswu/face-search:2.1.0
