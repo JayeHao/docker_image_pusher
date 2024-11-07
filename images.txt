@@ -36,6 +36,9 @@
 #ghcr.io/parkervcp/yolks:java_17
 #ghcr.io/parkervcp/yolks:java_21
 #ghcr.io/parkervcp/yolks:java_8
-ghcr.io/parkervcp/yolks:wine_latest
+#ghcr.io/parkervcp/yolks:wine_latest
 # 人脸对比服务
 # divenswu/face-search:2.1.0
+# rustdesk远程控制服务
+rustdesk/rustdesk-server-pro:latest
+rustdesk/rustdesk-server-pro:latest
