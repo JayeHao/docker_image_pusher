@@ -41,4 +41,3 @@
 # divenswu/face-search:2.1.0
 # rustdesk远程控制服务
 rustdesk/rustdesk-server-pro:latest
-rustdesk/rustdesk-server-pro:latest
