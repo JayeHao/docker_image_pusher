@@ -42,4 +42,4 @@
 # 远程控制
 # rustdesk/rustdesk-server:latest
 # openVPN
-openvpn/openvpn-as:latest
+kylemanna/openvpn:latest
