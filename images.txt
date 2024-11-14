@@ -43,4 +43,4 @@
 # rustdesk/rustdesk-server:latest
 # openVPN
 #kylemanna/openvpn:latest
-conda/miniconda3
+continuumio/miniconda3:latest
