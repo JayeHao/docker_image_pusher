@@ -42,4 +42,5 @@
 # 远程控制
 # rustdesk/rustdesk-server:latest
 # openVPN
-kylemanna/openvpn:latest
+#kylemanna/openvpn:latest
+python:3.8.20
