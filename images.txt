@@ -43,4 +43,6 @@
 # rustdesk/rustdesk-server:latest
 # openVPN
 #kylemanna/openvpn:latest
-paddlepaddle/paddle:latest
+#paddlepaddle/paddle:latest
+# 自用jdk
+bitnami/java:17
