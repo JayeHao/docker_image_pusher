@@ -45,4 +45,4 @@
 #kylemanna/openvpn:latest
 #paddlepaddle/paddle:latest
 # 自用jdk
-bitnami/java:17
+openjdk:17-jdk
