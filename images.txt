@@ -45,4 +45,6 @@
 #kylemanna/openvpn:latest
 #paddlepaddle/paddle:latest
 # 自用jdk
-openjdk:17-jdk
+# openjdk:17-jdk
+# ubuntu
+ubuntu:latest
