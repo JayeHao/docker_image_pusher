@@ -37,6 +37,7 @@
 #ghcr.io/parkervcp/yolks:java_21
 #ghcr.io/parkervcp/yolks:java_8
 #ghcr.io/parkervcp/yolks:wine_latest
+ghcr.io/goover/wine:stable
 # 人脸对比服务
 # divenswu/face-search:2.1.0
 # 远程控制
@@ -47,4 +48,4 @@
 # 自用jdk
 # openjdk:17-jdk
 # ubuntu
-ubuntu:latest
+# ubuntu:latest
