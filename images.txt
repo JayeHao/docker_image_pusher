@@ -1,51 +1,9 @@
-# zerotier-planet局域网
-#--platform=linux/amd64 xubiaolin/zerotier-planet:latest
-# nginx
-#--platform=linux/amd64 nginx:1.25.3
-# 米西镜像
-#--platform=linux/amd64 mysql:8.0.34-debian
-#--platform=linux/amd64 redis:7.2
-#--platform=linux/amd64 quay.io/minio/minio
-#--platform=linux/amd64 instrumentisto/coturn
-#--platform=linux/amd64 node:20.14
-#--platform=linux/amd64 node:20.13.1-alpine
-# 翼龙面板
-#--platform=linux/amd64 pterodactylchina/panel:v1.11.7.1
-#--platform=linux/amd64 redis:alpine3.20
-#--platform=linux/amd64 mariadb:10.5
-# VanBlog教程
-#--platform=linux/amd64 mereith/van-blog:v0.54.0
-#--platform=linux/amd64 mongo:4.4.16
-# 翼龙容器
-#ghcr.io/parkervcp/games:source
-#ghcr.io/parkervcp/installers:debian
-#ghcr.io/parkervcp/yolks:debian
-#ghcr.io/parkervcp/yolks:dotnet_6
-#ghcr.io/parkervcp/steamcmd:debian
-#ghcr.io/pterodactyl/games:rust
-#ghcr.io/parkervcp/yolks:wine_latest
-#ghcr.io/parkervcp/steamcmd:ubuntu
-#ghcr.io/pterodactyl/yolks:java_11
-#ghcr.io/pterodactyl/yolks:java_16
-#ghcr.io/pterodactyl/yolks:java_17
-#ghcr.io/pterodactyl/yolks:java_18
-#ghcr.io/pterodactyl/yolks:java_8
-#openjdk:8-jdk-slim
-#ghcr.io/parkervcp/yolks:java_11
-#ghcr.io/parkervcp/yolks:java_16
-#ghcr.io/parkervcp/yolks:java_17
-#ghcr.io/parkervcp/yolks:java_21
-#ghcr.io/parkervcp/yolks:java_8
-#ghcr.io/parkervcp/yolks:wine_latest
-ghcr.io/goover/wine:stable
-# 人脸对比服务
-# divenswu/face-search:2.1.0
-# 远程控制
-# rustdesk/rustdesk-server:latest
-# openVPN
-#kylemanna/openvpn:latest
-#paddlepaddle/paddle:latest
-# 自用jdk
-# openjdk:17-jdk
-# ubuntu
-# ubuntu:latest
+goharbor/harbor-log:v2.11.2
+goharbor/registry-photon:v2.11.2
+goharbor/harbor-registryctl:v2.11.2
+goharbor/harbor-db:v2.11.2
+goharbor/harbor-core:v2.11.2
+goharbor/harbor-portal:v2.11.2
+goharbor/harbor-jobservice:v2.11.2
+goharbor/redis-photon:v2.11.2
+goharbor/nginx-photon:v2.11.2
