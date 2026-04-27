@@ -1,1 +1,1 @@
-eclipse/mosquitto:1.4.8
+mysql:8.0.45
