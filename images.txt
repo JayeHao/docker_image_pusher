@@ -1,3 +1,1 @@
-redis:7.4.8
-minio/minio:latest
-rabbitmq:4.2.5-management
+bitnamicharts/minio:17.0.21
