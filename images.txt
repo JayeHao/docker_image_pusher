@@ -1,1 +1,1 @@
-harbor.mx16.com:14524/mixi/minio/minio:latest
+bitnami/minio:latest
