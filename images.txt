@@ -1,1 +1,1 @@
-bitnami/minio:latest
+docker.io/bitnami/minio:latest
