@@ -1,1 +1,1 @@
-openresty/openresty:alpine
+openjdk:17-jdk
