@@ -1,1 +1,3 @@
-ubuntu/jdk:17-24.04
+docker.getoutline.com/outlinewiki/outline:latest
+postgres:18
+steveltn/https-portal
