@@ -1,3 +1,1 @@
-docker.getoutline.com/outlinewiki/outline:latest
-postgres:18
-steveltn/https-portal
+node:22-alpine
