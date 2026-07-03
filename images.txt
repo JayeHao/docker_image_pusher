@@ -1,1 +1,1 @@
-node:22-alpine
+docker pull emqx/emqx:6
