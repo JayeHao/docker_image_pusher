@@ -1,1 +1,1 @@
-emqx/emqx:6
+odoo:19.0
