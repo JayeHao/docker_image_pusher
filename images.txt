@@ -1,1 +1,1 @@
-postgres:14.23
+emqx/emqx:5.9.3
