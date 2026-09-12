@@ -1,1 +1,1 @@
-jenkins/jenkins:2.581
+gcr.io/kaniko-project/executor:v1.23.2
