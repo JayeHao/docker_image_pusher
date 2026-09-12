@@ -1,1 +1,1 @@
-emqx/emqx:5.9.3
+golang:1.26-alpine
